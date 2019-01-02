@@ -1,5 +1,7 @@
 {
   "name": "google-maps-bug-example",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
